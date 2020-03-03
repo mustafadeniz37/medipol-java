@@ -1,1 +1,1 @@
-Nesne Yönelimli JAVA Programlama
+NESNE YÖNELİMLİ JAVA PROGRAMLAMA
