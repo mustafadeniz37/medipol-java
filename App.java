@@ -1,6 +1,6 @@
 package assignment_04;
 
-import ignore.TestingUtils;
+import TestingUtils;
 
 public class App {
 	public static boolean birdsSinging(int temp, boolean isSummer) {
@@ -19,7 +19,6 @@ public class App {
 		else return false;
 	}
 
-	//----------------------STARTING POINT OF PROGRAM. IGNORE BELOW --------------------//
 	public static void main(String args[]){
 		TestingUtils.runTests();
 	}
