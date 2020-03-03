@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Company
 {
     public static void main(String[] args)
-	{
+    {
         System.out.println("Kar miktarını giriniz.");
         Scanner kar = new Scanner(System.in);
         int karMiktari = kar.nextInt();
